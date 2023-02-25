@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'ASU-Capstone-Parse'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_0AC5F10B84B14850B6E4A44E8A2DBC18 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_176B91AB97984F8CADC7ECF476895F13 }}
           package: .
